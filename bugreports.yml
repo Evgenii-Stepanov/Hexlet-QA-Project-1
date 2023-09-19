@@ -30,7 +30,7 @@
     Google Chrome	107.0.5304.121 (Официальная сборка) (64 бит)
     ОС Linux 22.04
   steps-to-reproduce: |
-    1. Перейти на страницу "магазин" на первую страницу
+    1. Перейти на страницу "магазин" на первую страницу https://hexlet-products-store.vercel.app/
   expected-result: |
     Кнопки "Предыдущая" нет
   actual-result: |
@@ -42,7 +42,7 @@
     Google Chrome	107.0.5304.121 (Официальная сборка) (64 бит)
     ОС Linux 22.04
   steps-to-reproduce: |
-    1. Перейти на страницу "магазин" на последнюю страницу
+    1. Перейти на страницу "магазин" на последнюю страницу https://hexlet-products-store.vercel.app/
   expected-result: |
     Кнопки "Следующая" нет
   actual-result: |
@@ -120,7 +120,7 @@
     Google Chrome	107.0.5304.121 (Официальная сборка) (64 бит)
     ОС Linux 22.04
   steps-to-reproduce: |
-    1. Перейти на страницу "магазин"
+    1. Перейти на страницу "магазин" https://hexlet-products-store.vercel.app/
   expected-result: |
     Слева отображается полный список брендов
   actual-result: |
