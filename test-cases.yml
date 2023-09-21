@@ -3,7 +3,7 @@
     Оформление заказа
   requirement: |
     При нажатии на кнопку "Оформить заказ" в корзине должно появиться окно с сообщением "Заказ успешно формлен"
-  prerequisites:
+  prerequisites: |
     Открыта страница корзины, в которой есть хотя бы один товар. https://hexlet-products-store.vercel.app/cart
   test-data: |
     empty
@@ -60,7 +60,7 @@
     Удаление товаров из корзины
   requirement: |
     При удалении товаров из корзины, корзина должна остаться пустой
-  prerequisites:
+  prerequisites: |
     Открыта главная страница приложения. https://hexlet-products-store.vercel.app/
   test-data: |
     empty
@@ -75,7 +75,7 @@
     Фильтрация товаров по бренду
   requirement: |
     При выборе конкретного бренда пользователь должен видеть товары только выбранного производителя
-  prerequisites:
+  prerequisites: |
     Открыта главная страница приложения. https://hexlet-products-store.vercel.app/
   test-data: |
     empty
@@ -88,7 +88,7 @@
     Фильтрация товаров по ценовому диапазону
   requirement: |
     При выборе ценового диапазона пользователь должен видеть товары только выбранного ценового диапазона
-  prerequisites:
+  prerequisites: |
     Открыта главная страница приложения. https://hexlet-products-store.vercel.app/
   test-data: |
     empty
@@ -101,7 +101,7 @@
     Фильтрация товаров по наличию
   requirement: |
     При выборе параметра "В наличии" должны показываться только те товары, которые есть в наличии у магазина
-  prerequisites:
+  prerequisites: |
     Открыта главная страница приложения. https://hexlet-products-store.vercel.app/
   test-data: |
     empty
@@ -114,7 +114,7 @@
     Добавление нескольких одинаковых товаров в корзину
   requirement: |
     При добавлении нескольких одинаковых товаров в корзину пользователь должнен видеть то количество товара, сколько он добавил в корзину
-  prerequisites:
+  prerequisites: |
     Открыта главная страница приложения. https://hexlet-products-store.vercel.app/
   test-data: |
     empty
@@ -129,7 +129,7 @@
     Добавление нескольких разных товаров в корзину
   requirement: |
     При добавлении нескольких разных товаров в корзину пользователь должнен видеть те товары в том количестве, которые он добавил в корзину
-  prerequisites:
+  prerequisites: |
     Открыта главная страница приложения. https://hexlet-products-store.vercel.app/
   test-data: |
     empty
@@ -144,7 +144,7 @@
     Просмотр информации о товаре
   requirement: |
     При нажатии на карточку товара, должна открыться страница с его описанием
-  prerequisites:
+  prerequisites: |
     Открыта главная страница приложения. https://hexlet-products-store.vercel.app/
   test-data: |
     empty
@@ -157,7 +157,7 @@
     Переход в катеогрию товаров по хэштегу из страницы товара
   requirement: |
     При нажатии на хэштег категории товаров на странице товара должны появиться товары из это категории
-  prerequisites:
+  prerequisites: |
     Открыта  страница любого товара. https://products-store-git-v2bugfixes-hexlet-components.vercel.app/products/1
   test-data: |
     empty
@@ -170,7 +170,7 @@
     Поиск товаров в строке поиска по названию бренда
   requirement: |
     При вводе в строку поиска названия бренда на странице должны появиться товары этого бренда
-  prerequisites:
+  prerequisites: |
     Открыта главная страница приложения. https://hexlet-products-store.vercel.app/
   test-data: |
     empty
@@ -183,7 +183,7 @@
     Поиск товаров в строке поиска по названию товара
   requirement: |
     При вводе в строку поиска названия товара на странице должны появиться товары с ведённым названием
-  prerequisites:
+  prerequisites: |
     Открыта главная страница приложения. https://hexlet-products-store.vercel.app/
   test-data: |
     empty
@@ -196,7 +196,7 @@
     Проверка приложения на мобильных устройствах
   requirement: |
     При переходе в приложение через мобильное устройство вёрстка должна корректно отображаться
-  prerequisites:
+  prerequisites: |
     Открыта главная страница приложения через мобильное устройство. https://hexlet-products-store.vercel.app/
   test-data: |
     empty
@@ -209,7 +209,7 @@
     Проверка приложения на разных браузеах
   requirement: |
     При использовании приложения в разных браузерах должно быть корректное отображение блоков
-  prerequisites:
+  prerequisites: |
     Открыта главная страница приложения на разных браузерах. https://hexlet-products-store.vercel.app/
   test-data: |
     empty
@@ -222,7 +222,7 @@
     Закрытие окна оформленного заказа на кнопку "Закрыть"
   requirement: |
     При нажатии на кнопку "Закрыть" окно оформленного заказа должно закрыться
-  prerequisites:
+  prerequisites: |
     Открыта страница корзины с любым товаром. https://hexlet-products-store.vercel.app/cart
   test-data: |
     empty
@@ -236,7 +236,7 @@
     Закрытие окна оформленного заказа на крестик
   requirement: |
     При нажатии на крестик окно оформленного заказа должно закрыться
-  prerequisites:
+  prerequisites: |
     Открыта страница корзины с любым товаром. https://hexlet-products-store.vercel.app/cart
   test-data: |
     empty
