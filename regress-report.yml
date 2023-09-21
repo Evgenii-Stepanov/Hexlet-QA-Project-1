@@ -26,7 +26,7 @@ test-cases:
 
   - summary: |
       Фильтрация товаров по ценовому диапазону
-    status: pass
+     status: pass
 
   - summary: |
       Фильтрация товаров по наличию
