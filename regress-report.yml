@@ -74,7 +74,7 @@ bugreports:
     environment: |
       Google Chrome	107.0.5304.121 (Официальная сборка) (64 бит)
       ОС Linux
-    steps-to-reproduce: |
+    steps-to-reproduce:
       1. Выбрать из списка бреднов, например, OPPO или Infinix
     expected-result: |
       Корректное отображение карточки товара
@@ -86,7 +86,7 @@ bugreports:
     environment: |
       Google Chrome	107.0.5304.121 (Официальная сборка) (64 бит)
       ОС Linux
-    steps-to-reproduce: |
+    steps-to-reproduce:
       1. Указать диапазон цен от 0 до 12 
     expected-result: |
       Пустой перечень товаров и сообщение "Ничего не найдено."
