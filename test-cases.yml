@@ -19,7 +19,7 @@
   requirement: |
     При выборе русского языка язык магазина должен поменяться за русский
   prerequisites: |
-    Открыта главная страница приложения. https://hexlet-products-store.vercel.app/
+    Открыта главная страница приложения. https://hexlet-products-store.vercel.app
   test-data: |
     empty
   steps:
@@ -33,7 +33,7 @@
   requirement: |
     При выборе английского языка язык магазина должен поменяться за английский
   prerequisites: |
-    Открыта главная страница приложения, на которой заранее был выбран русский язык. https://hexlet-products-store.vercel.app/
+    Открыта главная страница приложения, на которой выбран русский язык. https://hexlet-products-store.vercel.app
   test-data: |
     empty
   steps:
