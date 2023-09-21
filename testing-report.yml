@@ -24,10 +24,6 @@
   status: pass
 
 - summary: |
-    Фильтрация товаров по ценовому диапазону
-  status: pass
-
-- summary: |
     Фильтрация товаров по наличию
   status: pass
 
