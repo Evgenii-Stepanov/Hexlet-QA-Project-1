@@ -23,50 +23,50 @@
     Фильтрация товаров по бренду
   status: pass
 
-  - summary: |
+- summary: |
     Фильтрация товаров по ценовому диапазону
   status: pass
 
-  - summary: |
+- summary: |
     Фильтрация товаров по наличию
   status: pass
 
-  - summary: |
+- summary: |
     Добавление нескольких одинаковых товаров в корзину
   status: pass
 
-  - summary: |
+- summary: |
     Добавление нескольких разных товаров в корзину
   status: pass
 
-  - summary: |
+- summary: |
     Просмотр информации о товаре
   status: pass
 
-  - summary: |
+- summary: |
     Переход в катеогрию товаров по хэштегу из страницы товара
   status: fail
 
-  - summary: |
+- summary: |
     Поиск товаров в строке поиска по названию бренда
   status: fail
 
-  - summary: |
+- summary: |
     Поиск товаров в строке поиска по названию товара
   status: pass
 
-  - summary: |
+- summary: |
     Проверка приложения на мобильных устройствах
   status: fail
 
-  - summary: |
+- summary: |
     Проверка приложения на разных браузеах
   status: pass
 
-  - summary: |
+- summary: |
     Закрытие окна оформленного заказа на кнопку "Закрыть"
   status: pass
 
-  - summary: |
+- summary: |
     Закрытие окна оформленного заказа на крестик
   status: fail
