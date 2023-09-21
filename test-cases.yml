@@ -200,8 +200,8 @@
     Открыта главная страница приложения через мобильное устройство. https://hexlet-products-store.vercel.app/
   test-data: |
     empty
-  steps: |
-    empty
+  steps:
+    - empty
   expected-result: |
     Пользователь видит корректное отображение блоков в приложении.
 
@@ -214,7 +214,7 @@
   test-data: |
     empty
   steps: |
-    empty
+    - empty
   expected-result: |
     Пользователь видит корректное отображение блоков в приложении.
 
