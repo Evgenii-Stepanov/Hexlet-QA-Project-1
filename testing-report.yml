@@ -66,3 +66,7 @@
 - summary: |
     Закрытие окна оформленного заказа на крестик
   status: fail
+
+- summary: |
+    Проверка приложения с помощью DevTools
+  status: fail
